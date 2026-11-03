@@ -18,3 +18,9 @@ Abra `index.html` no navegador ou execute `python3 -m http.server 8000` nesta pa
 - O banner original está em `assets/banner.jpg` como referência de identidade visual e não é exibido na página.
 
 Conteúdo-base: PPC do Bacharelado em IA da UFDPar (2025), especialmente páginas 7–13.
+
+
+## Logo da UFDPar
+Coloque a imagem oficial em `assets/logo-ufdpar.png` (PNG com fundo transparente recomendado).
+A dimensão da logo é controlada automaticamente pelo CSS (54 × 54 px, com `object-fit: contain`); não é necessário redimensionar o arquivo original.
+Enquanto o arquivo não for adicionado, aparece um espaço reservado escrito LOGO.
